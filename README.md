@@ -17,8 +17,8 @@ Report and Presentation: Write a clear project report summarizing your key findi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
-   cd customer-trends-data-analysis-SQL-Python-PowerBI
+   git clone https://github.com/sharmaditya0010RS/Customer-Shopping-Behavior-Analysis.git
+   cd Customer-Shopping-Behavior-Analysis
    ```
 2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
 
