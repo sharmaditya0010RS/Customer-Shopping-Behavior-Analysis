@@ -50,9 +50,7 @@ Report and Presentation: Write a clear project report summarizing your key findi
   
 6. **Create Project Report and Presentation**
 
-      - Create project report
-   
-      - Build presentation deck using Gamma AI
+      - Create project report and Presentation
 
 
 ## License
