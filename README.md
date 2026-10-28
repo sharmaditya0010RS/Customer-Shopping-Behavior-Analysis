@@ -57,11 +57,11 @@ Report and Presentation: Write a clear project report summarizing your key findi
 
 ## License
 
-MIT — feel free to fork, star and use in your portfolio.
+MIT
 
 ## About the Author
 My name is Aditya Sharma
 
 
-LinkedIn: [Aditya Sharma](https://www.linkedin.com/in/sharmaditya-analytics/))
-- Let’s connect professionally
+LinkedIn: [Aditya Sharma](https://www.linkedin.com/in/sharmaditya-analytics/)
+Let’s connect professionally
